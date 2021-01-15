@@ -1,8 +1,9 @@
 ## Employee-Exit-Suveys
 In this project, we helped our stakeholders to know the following:
 
-Are employees who only worked for the institutes for a short period of time resigning due to some kind of dissatisfaction? What about employees who have been there longer?
-Are younger employees resigning due to some kind of dissatisfaction? What about older employees?
+* Are employees who only worked for the institutes for a short period of time resigning due to some kind of dissatisfaction? What about employees who have been there longer?
+* Are younger employees resigning due to some kind of dissatisfaction? What about older employees?
+
 They wanted us to combine the results for both surveys to answer these questions. However, although both used the same survey template, one of them customized some of the answers. In the guided steps, we'll aim to do most of the data cleaning and analyze some first pending questions.
 
 **Below is a preview of a couple columns we'll work with from the dete_survey.csv:**
